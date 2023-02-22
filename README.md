@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Sinchana-SH/Sinchana-SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ![GIG](https://user-images.githubusercontent.com/116704673/220570954-ef18a5a9-2f0e-4c14-96bb-c3eaf3a45cf8.jpg)
