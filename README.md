@@ -4,7 +4,7 @@
 
  <img src="https://user-images.githubusercontent.com/116704673/220570954-ef18a5a9-2f0e-4c14-96bb-c3eaf3a45cf8.jpg" width="800" height="400">
 
-
+Sinchana.S.H here,
 - 🔭 I’m currently pursuing B.E in Robotics and Artificial Intelligence@NMAMIT
 - 🌱 Blockchain ,Web dev, Robotics and AI-ML enthusiast
 - 👯 Exploring new things 
