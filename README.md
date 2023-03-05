@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
- <img src="https://user-images.githubusercontent.com/116704673/220570954-ef18a5a9-2f0e-4c14-96bb-c3eaf3a45cf8.jpg" width="800" height="400">
+![image](https://user-images.githubusercontent.com/116704673/222961061-92cc20d7-e794-4eb5-acfa-76b1f993aadf.png)
 
 Sinchana.S.H here,
 - 🔭 I’m currently pursuing B.E in Robotics and Artificial Intelligence@NMAMIT
