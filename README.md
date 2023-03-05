@@ -2,6 +2,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/116704673/222961061-92cc20d7-e794-4eb5-acfa-76b1f993aadf.png)
+<img src="https://user-images.githubusercontent.com/116704673/222961061-92cc20d7-e794-4eb5-acfa-76b1f993aadf.png" width="900" height="900">
 
 Sinchana.S.H here,
 - 🔭 I’m currently pursuing B.E in Robotics and Artificial Intelligence@NMAMIT
