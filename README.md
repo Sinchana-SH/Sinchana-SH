@@ -6,7 +6,7 @@
 
 Sinchana.S.H here,
 - 🔭 I’m currently pursuing B.E in Robotics and Artificial Intelligence@NMAMIT
-- 🌱 Blockchain ,Web dev, Robotics and AI-ML enthusiast
+- 🌱 Robotics, AI-ML Blockchain and Web dev enthusiast
 - 🍓 Exploring new things 
        
   💻**TECHZ**
