@@ -6,13 +6,13 @@
 
 Sinchana.S.H here,
 - 🔭 I’m currently pursuing B.E in Robotics and Artificial Intelligence@NMAMIT
-- 🌱 Robotics, AI-ML Blockchain and Web dev enthusiast
+- 🌱 Robotics, AI-ML Blockchain enthusiast
 - 🍓 Exploring new things 
        
   💻**TECHZ**
    
 
-**Languages:
+**Languages:**
 
 
 
@@ -29,19 +29,17 @@ Sinchana.S.H here,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana-SH&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sinchana-SH/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinchana-SH&show_icons=true&theme=transparent)
 
 
 
 
 
 
-
-**Handles:
-
+**Handles:**
 
 LINKDIN:https://www.linkedin.com/in/sinchana-s-h-0b2843253 
-
-GMAIL:shsinchana30@gmail.com
+GMAIL:sinchanash03@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Sinchana-SH&color=green)
 
