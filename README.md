@@ -26,15 +26,9 @@ Sinchana.S.H here,
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sinchana-SH)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana-SH&layout=donut-vertical)](https://github.com/Sinchana-SH/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana-SH&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sinchana-SH/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinchana-SH&show_icons=true&theme=radical)
-
-
-
 
 
 **Handles:**
