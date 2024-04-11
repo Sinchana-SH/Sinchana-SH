@@ -35,7 +35,7 @@ Sinchana.S.H here,
 
 LinkdIn:https://www.linkedin.com/in/sinchana-s-h-0b2843253 
 
-Gmail:sinchanash03@gmail.com
+Gmail:shsinchana30@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Sinchana-SH&color=green)
 
